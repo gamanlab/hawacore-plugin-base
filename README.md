@@ -1,5 +1,12 @@
 # hawacore-plugins-basic
 
+## Create new plugin
+
+```
+git init hawacore-plugins-sample && cd hawacore-plugins-sample
+git pull https://github.com/gamanlab/hawacore-plugin-base.git
+```
+
 ## Project setup
 ```
 yarn install
